@@ -3,14 +3,6 @@
 
 Dibuat untuk proses pembelajaran flutter dasar, tentang bagaimana cara menerapkan flutter block dan package Dio untuk managament logic konsumsi API
 
-Link package yang say6a gunakan disini
-
-
-
-# Qura'an App
-
-Dibuat untuk proses pembelajaran flutter dasar, tentang bagaimana cara menerapkan flutter block dan package Dio untuk managament logic konsumsi API
-
 
 
 
