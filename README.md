@@ -1,16 +1,40 @@
-# myapp
 
-A new Flutter project.
+# Qura'an App
 
-## Getting Started
+Dibuat untuk proses pembelajaran flutter dasar, tentang bagaimana cara menerapkan flutter block dan package Dio untuk managament logic konsumsi API
 
-This project is a starting point for a Flutter application.
+Link package yang say6a gunakan disini
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Qura'an App
+
+Dibuat untuk proses pembelajaran flutter dasar, tentang bagaimana cara menerapkan flutter block dan package Dio untuk managament logic konsumsi API
+
+
+
+
+## Package 
+
+ - [flutter_bloc 8.1.6](https://pub.dev/packages/flutter_bloc)
+ - [Dio 5.5.0+1](https://pub.dev/packages/dio)
+ - [google_fonts: ^6.2.1](https://pub.dev/packages/google_fonts)
+
+
+## Qur'an API
+
+Untuk explore lebih jauh teman-teman bisa cek API nya disini : 
+
+`Alamat API`
+https://alquran.cloud/read
+
+
+## 🚀 About Me
+Saya adalah seorang full stack developer.
+Silahkan hubungi saya di
+
+
+## 🔗 Links
+
+[![whatsapp](https://img.shields.io/badge/linkedin-0ac266?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/?lang=id_ID)
+
